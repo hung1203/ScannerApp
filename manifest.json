@@ -1,0 +1,18 @@
+{
+  "appID": "5055abe439fe42dbb8847a518e51a16e",
+  "dependencies": {
+    "devkit-core": "https://github.com/gameclosure/devkit-core#v4.0.4",
+    "qrscanner": "https://github.com/tiendv89/qrscanner.git#v0.0.6"
+  },
+  "shortName": "ScannerApp",
+  "studio": {
+    "domain": "studio.example.com",
+    "name": "Your Studio Name",
+    "stagingDomain": "staging.example.com"
+  },
+  "supportedOrientations": [
+    "portrait",
+    "landscape"
+  ],
+  "title": "ScannerApp"
+}
